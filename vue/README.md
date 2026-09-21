@@ -25,5 +25,6 @@ This project focuses on providing instant visual feedback to users as they type,
 
 ### Live Link
 
+https://password-strength-checker-vue-fth.vercel.app
 
 ---

@@ -39,7 +39,7 @@ Experience the real-time validation live. Both versions share the exact same des
 
 | Framework | Live Preview | Source Code |
 | :--- | :--- | :--- |
-| ⚡ **Vue 3** | [ View Vue Live Demo](#) | [`/vue`](#) |
-| ⚛️ **React** | [🔗 View React Live Demo](#) | [`/react`](#) |
+| ⚡ **Vue 3** | [ View Vue Live Demo](https://password-strength-checker-vue-fth.vercel.app) | [`/vue`](#) |
+| ⚛️ **React** | [🔗 View React Live Demo](https://password-strength-checker-react-fth.vercel.app/) | [`/react`](#) |
 
 ---
